@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I am Abtaha Chowdhury (often called "Aby")👋
 
-<!--
-**abtahac-hue/abtahac-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student (junior) at Florida International University (FIU)
 
-Here are some ideas to get you started:
+🔐 I am passionate in Cybersecurity, security analysis, governance, risk management, IT, digital forensics, and defensive security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I apply Cybersecurity, programming, database, and IT concepts through hands-on technical projects, with a focus on security analysis and practical problem-solving.
+
+🌎 I am passionate about using technology to solve meaningful problems, strengthen digital security, and build solutions that create a positive impact in communities and society as a whole.
+
+## 🛡️ Technical Areas
+- Cybersecurity & Digital Forensics
+- Security Analysis
+- Python
+- Java
+- SQL & Database Systems
+- IT Security & Risk Management
+
+## 🚀 Current Focus
+I am building practical projects that apply Cybersecurity concepts to solve real-world problems while documenting my learning along the way.
+
+## 📫 Connect With Me 
+- LinkedIn: www.linkedin.com/in/abtahac
