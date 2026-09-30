@@ -13,6 +13,7 @@
 - Security Analysis
 - Governance, Risk & Compliance (GRC)
 - Python
+- HTML/CSS
 - Java
 - SQL & Database Systems
 - IT Security & Risk Management
