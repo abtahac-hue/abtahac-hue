@@ -19,8 +19,8 @@
 - IT Security & Risk Management
 
 ## 📚 Certifications & Professional Development
+- ISC2 CC (free) — In Progress
 - CompTIA Security+ — In Progress
-- Certified Ethical Hacker (CEH) — In Progress
 
 ## 🚀 Current Focus
 - 🔎 Security monitoring and log analysis using Splunk
