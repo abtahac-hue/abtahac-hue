@@ -48,12 +48,6 @@ Hi there! I’m Abtaha Chowdhury, a junior studying Cybersecurity at Florida Int
 ![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat)
 
 
-## 📚 Certifications & Professional Development
-
-- **ISC2 Certified in Cybersecurity (CC)** — In progress
-- **CompTIA Security+** — In progress
-
-
 ## 🚀 Current Focus
 
 - Reviewing logs and investigating suspicious activity with Splunk.
